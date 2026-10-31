@@ -1,6 +1,0 @@
-com\memorymagic\backend\service\HealthServiceTest.class
-com\memorymagic\backend\controller\AppInfoControllerTest.class
-com\memorymagic\backend\MemoryMagicBackendApplicationTests.class
-com\memorymagic\backend\service\AppInfoServiceTest.class
-com\memorymagic\backend\controller\HealthControllerTest.class
-com\memorymagic\backend\exception\GlobalExceptionHandlerTest.class

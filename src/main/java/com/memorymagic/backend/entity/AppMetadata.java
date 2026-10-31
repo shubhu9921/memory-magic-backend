@@ -79,3 +79,4 @@ public class AppMetadata {
         this.status = status;
     }
 }
+

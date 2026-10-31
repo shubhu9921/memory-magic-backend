@@ -26,3 +26,4 @@ jobs:
 
       - name: Package Spring Boot JAR
         run: mvn package -DskipTests
+

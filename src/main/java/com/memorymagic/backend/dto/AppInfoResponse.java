@@ -52,3 +52,4 @@ public class AppInfoResponse {
         this.environment = environment;
     }
 }
+

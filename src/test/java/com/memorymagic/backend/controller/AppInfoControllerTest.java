@@ -39,3 +39,4 @@ class AppInfoControllerTest {
                 .andExpect(jsonPath("$.environment").value("development"));
     }
 }
+

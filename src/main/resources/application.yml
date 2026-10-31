@@ -42,3 +42,4 @@ logging:
   level:
     root: INFO
     com.memorymagic.backend: DEBUG
+

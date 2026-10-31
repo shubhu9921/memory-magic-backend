@@ -5,3 +5,4 @@ import com.memorymagic.backend.dto.AppInfoResponse;
 public interface AppInfoService {
     AppInfoResponse getAppInfo();
 }
+

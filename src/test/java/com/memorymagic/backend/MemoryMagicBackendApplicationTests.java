@@ -12,3 +12,4 @@ class MemoryMagicBackendApplicationTests {
     void contextLoads() {
     }
 }
+

@@ -23,3 +23,4 @@ class AppInfoServiceTest {
         assertThat(response.getEnvironment()).isEqualTo("staging");
     }
 }
+

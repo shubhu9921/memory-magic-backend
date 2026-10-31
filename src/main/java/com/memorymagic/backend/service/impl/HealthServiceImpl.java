@@ -17,3 +17,4 @@ public class HealthServiceImpl implements HealthService {
         return new HealthResponse(true, "Memory Magic backend is running", "UP");
     }
 }
+

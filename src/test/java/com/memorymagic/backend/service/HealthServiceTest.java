@@ -28,3 +28,4 @@ class HealthServiceTest {
         assertThat(response.getMessage()).isEqualTo("Memory Magic backend is running");
     }
 }
+

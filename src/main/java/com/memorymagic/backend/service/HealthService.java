@@ -5,3 +5,4 @@ import com.memorymagic.backend.dto.HealthResponse;
 public interface HealthService {
     HealthResponse getHealthStatus();
 }
+

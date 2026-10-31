@@ -50,3 +50,4 @@ public class HealthResponse {
         this.status = status;
     }
 }
+

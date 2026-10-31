@@ -34,3 +34,4 @@ databases:
     user: memory_magic_user
     plan: free
     region: oregon
+

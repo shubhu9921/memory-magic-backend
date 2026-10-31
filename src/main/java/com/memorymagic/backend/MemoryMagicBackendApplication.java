@@ -10,3 +10,4 @@ public class MemoryMagicBackendApplication {
         SpringApplication.run(MemoryMagicBackendApplication.class, args);
     }
 }
+

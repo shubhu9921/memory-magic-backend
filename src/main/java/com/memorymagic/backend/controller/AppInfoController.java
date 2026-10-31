@@ -23,3 +23,4 @@ public class AppInfoController {
         return ResponseEntity.ok(response);
     }
 }
+

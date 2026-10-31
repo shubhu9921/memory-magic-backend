@@ -127,3 +127,4 @@ docker run -p 8080:8080 -e SPRING_PROFILES_ACTIVE=dev memory-magic-backend:lates
    - `SPRING_DATASOURCE_PASSWORD`: `<DB_PASSWORD>`
    - `CORS_ALLOWED_ORIGINS`: `https://<YOUR_NETLIFY_APP_NAME>.netlify.app`
 4. Set Health Check Path to: `/actuator/health`.
+

@@ -26,3 +26,4 @@ public class AppInfoServiceImpl implements AppInfoService {
         return new AppInfoResponse(true, appName, appVersion, environment);
     }
 }
+
